@@ -1,0 +1,20 @@
+
+body { padding-top: 80px; padding-bottom: 30px; }
+.logo {
+    height: 50px;
+}
+.img-cuaca  {
+    height: 80px;
+    width: 80px;
+}
+.bg-cuaca-siang {
+    background: linear-gradient(125deg, rgba(83,196,255,1) 0%, rgba(0,117,255,1) 100%);
+}
+
+.gempa #map {
+    height: 300px;
+}
+a {
+    
+    text-decoration: none;
+}
