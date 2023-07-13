@@ -1,9 +1,9 @@
 <script setup>
-import CardGempa from '../components/CardGempa.vue';
+import CardGempa from "../components/CardGempa.vue";
 </script>
 
 <template>
   <main>
-    <CardGempa/>
+    <CardGempa />
   </main>
 </template>

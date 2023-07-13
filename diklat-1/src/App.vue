@@ -1,13 +1,10 @@
 <script setup>
-import TopBar from './components/TopBar.vue';
-import BottomBar from './components/BottomBar.vue';
+import TopBar from "./components/TopBar.vue";
+import BottomBar from "./components/BottomBar.vue";
 </script>
 
 <template>
-
-  <TopBar/>
+  <TopBar />
   <RouterView />
-  <BottomBar/>
-
+  <BottomBar />
 </template>
-
