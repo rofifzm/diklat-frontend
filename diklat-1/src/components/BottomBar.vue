@@ -8,7 +8,6 @@ import { RouterLink, RouterView } from "vue-router";
     <router-link
       to="/"
       class="text-white d-flex flex-column align-items-center"
-      href="/"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +26,6 @@ import { RouterLink, RouterView } from "vue-router";
     <router-link
       to="/cuaca"
       class="text-white d-flex flex-column align-items-center"
-      href="/cuaca.html"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -46,7 +44,6 @@ import { RouterLink, RouterView } from "vue-router";
     <router-link
       to="/gempa"
       class="text-white d-flex flex-column align-items-center"
-      href="/gempa.html"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
